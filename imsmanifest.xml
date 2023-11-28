@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest xmlns="http://www.imsglobal.org/xsd/imscp_v1p1" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3" xmlns:imsmd="http://www.imsglobal.org/xsd/imsmd_v1p2" xmlns:imsss="http://www.imsglobal.org/xsd/imsss" xmlns:lodestar="http://www.lodeStarLearning.com/xsd/lodestar" xmlns:x="http://www.imsglobal.org/xsd/imscp_v1p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" identifier="MANIFEST01" version="1.3" xsi:schemaLocation="http://www.adlnet.org/xsd/adlcp_v1p3 adlcp_v1p3.xsd http://www.imsglobal.org/xsd/imsss imsss_v1p0.xsd http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd http://www.imsglobal.org/xsd/imsmd_v1p2 imsmd_v1p2.xsd http://www.imsglobal.org/xsd/imsmd_v1p2p2 imsmd_v1p2p2.xsd http://www.lodeStarLearning.com/xsd/lodestar lodestar_v1map.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>CAM 1.3</schemaversion>
+    <lodestar:mapversion>0.0.1</lodestar:mapversion>
+    <lodestar:mapdescription />
+    <lodestar:mapgenerator>Lodestar 5.2</lodestar:mapgenerator>
+    <lodestar:mapgeneratorurl>http://www.lodeStarLearning.com</lodestar:mapgeneratorurl>
+  </metadata>
+  <organizations default="LRMTOC">
+    <organization identifier="LRMTOC">
+      <title>Simple_Sim_Project_NARA</title>
+      <item identifier="MANIFEST01_ITEM2" identifierref="MANIFEST01_RESOURCE1" isvisible="true">
+        <title>Reparative_Description</title>
+        <metadata>
+          <imsmd:lom>
+            <imsmd:general>
+              <imsmd:title>
+                <imsmd:langstring xml:lang="en-US">Reparative_Description</imsmd:langstring>
+              </imsmd:title>
+              <imsmd:language>en</imsmd:language>
+              <imsmd:keyword>
+                <imsmd:langstring xml:lang="en-US" />
+              </imsmd:keyword>
+              <imsmd:description>
+                <imsmd:langstring xml:lang="en-US" />
+              </imsmd:description>
+              <imsmd:coverage>
+                <imsmd:langstring xml:lang="en-US" />
+              </imsmd:coverage>
+            </imsmd:general>
+            <imsmd:lifecycle>
+              <imsmd:contribute>
+                <imsmd:role>
+                  <imsmd:source>
+                    <imsmd:langstring xml:lang="x-none">LOMv1.0</imsmd:langstring>
+                  </imsmd:source>
+                  <imsmd:value>
+                    <imsmd:langstring xml:lang="x-none">Publisher</imsmd:langstring>
+                  </imsmd:value>
+                </imsmd:role>
+                <imsmd:centity>
+                  <imsmd:vcard>BEGIN:VCARD FN:MnD ORG: ADR:;;;;;; TEL: EMAIL: END:VCARD</imsmd:vcard>
+                </imsmd:centity>
+              </imsmd:contribute>
+            </imsmd:lifecycle>
+            <imsmd:technical>
+              <imsmd:format>text/html</imsmd:format>
+              <imsmd:location>.</imsmd:location>
+            </imsmd:technical>
+            <imsmd:educational>
+              <imsmd:typicalagerange>
+                <imsmd:langstring xml:lang="en-US">-</imsmd:langstring>
+              </imsmd:typicalagerange>
+              <imsmd:typicallearningtime>
+                <imsmd:datetime>00:00:00</imsmd:datetime>
+              </imsmd:typicallearningtime>
+              <imsmd:description>
+                <imsmd:langstring xml:lang="en-US" />
+              </imsmd:description>
+            </imsmd:educational>
+            <imsmd:rights>
+              <imsmd:copyrightandotherrestrictions>
+                <imsmd:source>
+                  <imsmd:langstring xml:lang="x-none">LOMv1.0</imsmd:langstring>
+                </imsmd:source>
+                <imsmd:value>
+                  <imsmd:langstring xml:lang="x-none">Yes</imsmd:langstring>
+                </imsmd:value>
+              </imsmd:copyrightandotherrestrictions>
+              <imsmd:description>
+                <imsmd:langstring xml:lang="en-US" />
+              </imsmd:description>
+            </imsmd:rights>
+            <imsmd:annotation>
+              <imsmd:description>
+                <imsmd:langstring xml:lang="en-US" />
+              </imsmd:description>
+            </imsmd:annotation>
+            <imsmd:classification>
+              <imsmd:purpose>
+                <imsmd:source>
+                  <imsmd:langstring xml:lang="x-none">LOMv1.0</imsmd:langstring>
+                </imsmd:source>
+                <imsmd:value>
+                  <imsmd:langstring xml:lang="x-none">Discipline</imsmd:langstring>
+                </imsmd:value>
+              </imsmd:purpose>
+              <imsmd:taxonpath>
+                <imsmd:source>
+                  <imsmd:langstring xml:lang="x-none">GEM_1</imsmd:langstring>
+                </imsmd:source>
+                <imsmd:taxon>
+                  <imsmd:entry>
+                    <imsmd:langstring xml:lang="en-US">Administration</imsmd:langstring>
+                  </imsmd:entry>
+                  <imsmd:taxon>
+                    <imsmd:entry>
+                      <imsmd:langstring xml:lang="en-US" />
+                    </imsmd:entry>
+                  </imsmd:taxon>
+                </imsmd:taxon>
+              </imsmd:taxonpath>
+            </imsmd:classification>
+          </imsmd:lom>
+        </metadata>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="MANIFEST01_RESOURCE1" adlcp:scormType="sco" type="webcontent" href="Simple_Sim_Project_MichaelaDay/index.htm">
+      <x:file href="Simple_Sim_Project_MichaelaDay/design/background_tile.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/design/design.css" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/design/background.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/design/thumbnail.jpg" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/design/default.xml" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/RegisterItemsCommand.js" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/Backup.lxmb" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/layout/space_tile.jpg" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/layout/arrowLeft_down.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/layout/tile.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/layout/arrowRight.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/layout/layout.xsl" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/layout/1851_Fort_Laramie_Treaty_p2of3.jpg" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/layout/theme.xsl.bak" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/layout/arrowLeft_gray.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/layout/arrowLeft.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/layout/1851_Fort_Laramie_Treaty_Cropped_Image.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/layout/thumbnail.jpg" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/layout/arrowRight_gray.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/layout/arrowRight_down.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/layout/default.xml" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/layout/button.jpg" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/layout/theme.xsl" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/index.htm" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/index.aspx" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/theme/header (1).jpg" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/theme/print.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/theme/accessibility.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/theme/header.jpg" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/theme/full_format.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/theme/footer.jpg" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/theme/thumbnail.jpg" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/theme/default.xml" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/ActivityMaker_Simple_Sim_Project_MichaelaDay.lxml" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/thumbnail.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/css/organizer.css" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/css/captions.css" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/css/blackArrow.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/css/jquery.mmenu.all.css" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/css/arrowLeft_down.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/css/theme.css" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/css/slick.css" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/css/arrowRight.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/css/reset.css" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/css/jtTimelinestyle.css" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/css/jplayer.blue.monday.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/css/colorbox.css" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/css/images/icon-close.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/css/images/icon-print.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/css/images/icon-print-hover.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/css/images/icon-print-preview.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/css/slick-theme.css" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/css/menuX.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/css/postProcess.css.bak" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/css/arrowLeft_gray.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/css/jtTimeline.css" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/css/transcript.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/css/jetReset.css" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/css/background.jpg" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/css/notes.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/css/print.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/css/jquery-ui.css" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/css/accessibility.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/css/menu.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/css/pgwslider.min.css.bak" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/css/pause.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/css/arrowLeft.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/css/drag_handle.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/css/navpoint.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/css/backgroundImageGray.jpg" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/css/jtTimelineReset.css" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/css/forms.css" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/css/player.css" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/css/arrowRight_gray.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/css/layout.css" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/css/print.css" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/css/accessibilityPage.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/css/epub.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/css/arrowRight_down.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/css/jetbuilder.css" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/css/normalize.css" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/css/interviewer_content_panel_backgroundv2.jpg" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/css/play.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/css/cd-arrow.svg" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/css/postProcess.css" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/css/pgwslider.min.css" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/css/backgroundx.jpg" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/js/jet.min.js" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/js/captions.css" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/js/aes.js" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/js/jquery.ui.touch-punch-modified.js" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/js/jquery-ui.min.js" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/js/pgwslider.min.js" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/js/cipher-core.js" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/js/enc-base64.js" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/js/puremvc-1.0.js" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/js/apiwrapper.js" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/js/core.js" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/js/jquery.colorbox.js" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/js/hammer.js" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/js/datawrapper.js" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/js/jquery-3.7.1.min.map" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/js/jquery-simulate.js" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/js/gestureMediator.js" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/js/parser/jsparser.umd.js" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/js/jlayout/jquery.sizes.js" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/js/jlayout/jquery.jlayout.js" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/js/jlayout/jlayout.flexgrid.js" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/js/jlayout/jlayout.border.js" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/js/jlayout/jlayout.grid.js" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/js/jlayout/jlayout.flow.js" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/js/cmi5/cmi5.min.js" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/js/cmi5/verbs.js" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/js/cmi5/course_cmi5.js" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/js/sphereViewer/three.module.js" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/js/sphereViewer/uevent/browser.js" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/js/sphereViewer/photo-sphere-viewer.js" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/js/sphereViewer/photo-sphere-viewer.css" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/js/sphereViewer/plugins/gyroscope.js" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/js/sphereViewer/plugins/markers.css" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/js/sphereViewer/plugins/visible-range.js" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/js/sphereViewer/plugins/stereo.js" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/js/sphereViewer/plugins/markers.js" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/js/sphereViewer/three.min.js" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/js/sphereViewer/browser.js.map" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/js/sphereViewer/browser.js" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/js/sphereViewer/assets/navanchor_yellow.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/js/sphereViewer/assets/pin-red.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/js/sphereViewer/assets/photosphere-logo.gif" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/js/sphereViewer/assets/navinfo.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/js/sphereViewer/assets/navpoint_yellow.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/js/sphereViewer/assets/navinfo_yellow.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/js/sphereViewer/assets/navpoint.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/js/sphereViewer/assets/navanchor.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/js/sphereViewer/assets/pin-blue.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/js/sphereViewer/viewer-compat.js" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/js/jquery.event.drag.js" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/js/jetTimeline.js" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/js/jquery-3.7.1.min.js" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/js/jtline.min.js" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/lib/js/jquery.flippy.min.js" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/page.htm" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/imsmanifest.xml" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/description.htm" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/sec508.htm" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/base/James_Casual_8c.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/base/NARA_1838_Treaty_SixNations_Screenshot.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/base/James_Casual_34c.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/base/sec508.xsl" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/base/728887_cropped.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/base/James_Casual_8b.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/base/1838_Treaty_SixNations.jpg" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/base/NARA_Bill_Nigger_Catalogue_image.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/base/NARA_JackladderNigger_Catalogue.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/base/print.xsl" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/base/NARA_Hopi_Squaw_photo.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/base/main.xml" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/base/1851_Fort_Laramie_Treaty_p2of3.jpg" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/base/NARA_Bill_Nigger_image.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/base/James_Casual_24a.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/base/NARA_JackladderNigger_ReparativeDescription_Image.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/base/James_Casual_24c.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/base/NARA_Hopi_Transcription_update.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/base/sec508Redirect.xsl" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/base/page.xsl" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/base/James_Casual_25a.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/base/NARA_JackladderNigger_Photo_Crop.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/base/Leylo_Casual_25a.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/base/qw.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/base/James_Casual_70c.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/base/NARA_Hopi_Squaw_Photo_Catalogue_image.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/base/935249_cropped.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/base/James_Casual_70b.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/base/James_Casual_27a.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/base/747770_cropped.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/base/NARA_NAV_scroll_and_arrow.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/base/NARA_Logo.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/base/NARA_JackladderNigger_Photo_Full.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/base/sec508.htm" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/base/NARA_Hopi_Description_Tag_update.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/base/NARA_JackladderNigger_Tags.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/base/James_Casual_21a.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/base/James_Casual_21c.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/base/James_Casual_21b.png" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/print.htm" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/palette/palette.css" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/palette/default.xml.bak" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/palette/thumbnail.jpg" />
+      <x:file href="Simple_Sim_Project_MichaelaDay/palette/default.xml" />
+    </resource>
+  </resources>
+</manifest>
